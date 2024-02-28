@@ -1,4 +1,4 @@
-# Intern-Programmer-Game-Logic-
+# Intern Programmer (Game Logic)
 
 ![image](https://github.com/Vladislav-GitHub/Intern-Programmer-Game-Logic-/assets/85065325/73cfd1b5-c63a-47c1-9998-721f435a7eee)
 
